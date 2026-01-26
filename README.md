@@ -1,7 +1,3 @@
-﻿<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/247534717?v=4" alt="Wang Xu" width="18%" style="border-radius: 8px;"/>
-</p>
-
 <h1 align="center">Hi, I'm Wang Xu 👋</h1>
 <p align="center">
   <em>Client-side Developer | React Native • iOS • Frontend</em>
