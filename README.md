@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:wx@aurise.dev"><img src="https://img.shields.io/badge/Email-wx@aurise.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:hi@wangxu.dev"><img src="https://img.shields.io/badge/Email-hi@wangxu.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/wangxu-dev"><img src="https://img.shields.io/badge/GitHub-wangxu--dev-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
